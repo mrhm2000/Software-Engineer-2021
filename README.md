@@ -10,3 +10,4 @@
 |   4|  Plaid | [Software Engineer - New Grad](https://plaid.com/job/?id=32597039-3497-4876-ad70-c23d95f55d32) |  
 |   5|  Confluent | [Frontend Software Engineer, New Grad](https://ats.comparably.com/api/v1/lvr/confluent/34ddb77b-c9e5-4b14-b77e-7dd8b2885430) |  
 |   6|  Bill.com | [Software Engineer - New Grads](https://jobs.lever.co/bill/4570992c-19aa-4aaf-a4ac-088ea86b6a82) |  
+|   7|  L3Harris| [software engineer new grad - Multiple Location - check link for location](https://careers.l3harris.com/search-jobs/software%20engineer%20new%20grad/4832/1) |  
