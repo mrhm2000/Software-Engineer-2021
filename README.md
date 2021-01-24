@@ -14,3 +14,4 @@
 |   8|  Viasat| [Software Engineer University Grad](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/6663?source=Indeed) |  
 |   9|  HubSpot| [Software Engineer](https://www.hubspot.com/careers/jobs/86940?hubs_signup-cta=careers-apply) |  
 |   10|  Boeing| [SOFTWARE ENGINEER 1 ENTRY LEVEL](https://jobs.boeing.com/job/germantown/software-engineer-1-entry-level/185/2325284848) |  
+|   11|  Verizon| [Software Development Entry Level Opportunities](https://www.verizon.com/about/work/jobs/6183472-software-development-entry-level-opportunities?hl=software%202021) |  
