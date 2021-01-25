@@ -15,3 +15,4 @@
 |   9|  HubSpot| [Software Engineer](https://www.hubspot.com/careers/jobs/86940?hubs_signup-cta=careers-apply) |  
 |   10|  Boeing| [SOFTWARE ENGINEER 1 ENTRY LEVEL](https://jobs.boeing.com/job/germantown/software-engineer-1-entry-level/185/2325284848) |  
 |   11|  Verizon| [Software Development Entry Level Opportunities](https://www.verizon.com/about/work/jobs/6183472-software-development-entry-level-opportunities?hl=software%202021) |  
+|   12|  RTX| [New College Graduate: Software Engineer I](https://jobs.rtx.com/job/-/-/4679/4145885152?utm_campaign=ris_2021&utm_source=indeed&utm_medium=jobad&utm_content=pj_board&p_uid=XkFGThm0Gk&p_sid=gxLDPkb&ss=paid&dclid=CjkKEQiA9bmABhCZvczX8M-WrNgBEiQAXQpKv33f3-z_bu8wj2bYE73rdMS7_2hF4OlnvRHpgtYAVhzw_wcB) |  
